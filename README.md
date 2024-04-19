@@ -1,4 +1,12 @@
-My name is Mina, I graduated from Alexandria University in Egypt with a B.Sc. in Electrical Engineering specializing in Electronics and Communications Engineering. During my studies, I have had extracurricular courses and diplomas in programming, Embedded Systems, and Operating Systems. Afterward, I moved to Finland to study at Oulu University where I graduated with an M.Sc. in Computer Science and Engineering specializing in Machine Vision and Signal Processing.
+My name is Mina,
+* B.Sc. in Electrical Engineering specializing in Electronics and Communications Engineering from Alexandria University
+* Diplomas in programming, Embedded Systems, and Operating Systems.
+* M.Sc. in Computer Science and Engineering specializing in Machine Vision and Signal Processing from Oulu University.
+* Working experience in the following fields:
+    * Computer Vision and Signal Processing
+    * Embedded Systems
+    * Automotive
+    * DevOps
 
 ## Skills and Tools
 
