@@ -1,12 +1,12 @@
 My name is Mina,
-* B.Sc. in Electrical Engineering specializing in Electronics and Communications Engineering from Alexandria University
-* Diplomas in programming, Embedded Systems, and Operating Systems.
-* M.Sc. in Computer Science and Engineering specializing in Machine Vision and Signal Processing from Oulu University.
-* Working experience in the following fields:
-    * Computer Vision and Signal Processing
-    * Embedded Systems
-    * Automotive
-    * DevOps
+* 🎓 B.Sc. in Electrical Engineering specializing in Electronics and Communications Engineering from Alexandria University
+* 🎓 Diplomas in programming, Embedded Systems, and Operating Systems.
+* 🎓 M.Sc. in Computer Science and Engineering specializing in Machine Vision and Signal Processing from Oulu University.
+* 👨🏻‍💻 Working experience in the following fields:
+    * 🚦 Computer Vision and Signal Processing
+    * 📟 Embedded Systems
+    * 🏎 Automotive
+    * ∞ DevOps
 
 ## Skills and Tools
 
