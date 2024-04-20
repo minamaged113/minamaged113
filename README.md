@@ -30,7 +30,7 @@ My name is Mina,
 <td><img
     src="https://i.ibb.co/tPJdj5f/Docker.png"
     alt="Docker logo"
-    width="92"
+    width="80"
 /></td>
 <td><img
     src="https://i.ibb.co/72NmSxn/doxygen.png"
@@ -45,7 +45,7 @@ My name is Mina,
 <td><img
     src="https://i.ibb.co/7gK3Jbc/Llvm.png"
     alt="LLVM logo"
-    width="128"
+    width="64"
 /></td>
 <td><img
     src="https://i.ibb.co/0fqw3zb/Gnu.png"
@@ -75,8 +75,60 @@ My name is Mina,
       width="64"
 /></td>
 <td><img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png"
+      alt="Bash logo"
+      width="261"
+/></td>
+<td><img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1920px-Python_and_Qt.svg.png"
       alt="PyQt logo"
+      width="64"
+/></td>
+<td><img
+      src="https://avatars.githubusercontent.com/u/15212165?s=200&v=4"
+      alt="Conan.io logo"
+      width="64"
+/></td>
+<td><img
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"
+      alt="Jenkins logo"
+      width="64"
+/></td>
+</tr>
+<tr>
+<td><img
+      src="https://seeklogo.com/images/A/asciidoctor-logo-F63CD0F9F5-seeklogo.com.png"
+      alt="Asciidoctor logo"
+      width="64"
+/></td>
+<td><img
+      src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png"
+      alt="Scrum logo"
+      width="64"
+/></td>
+<td><img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/1280px-Yocto_Project_logo.svg.png"
+      alt="Yocto project logo"
+      width="128"
+/></td>
+<td><img
+      src="https://scaledagile.com/wp-content/uploads/2021/05/cert_mark_SAFe_Certified_small_150px.png"
+      alt="SAFe certification logo"
+      width="64"
+/></td>
+<td><img
+      src="https://cdn.sanity.io/images/v69vlxeg/production/86d1aead4d13e10f020e3a8acb50a29b869ec4e6-508x150.png?w=3840&q=75&fit=clip&auto=format"
+      alt="JFrog logo"
+      width="261"
+/></td>
+<td><img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png"
+      alt="Microsoft logo"
+      width="64"
+/></td>
+<td><img
+      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-512.png"
+      alt="Atlassian logo"
       width="64"
 /></td>
 </tr>
